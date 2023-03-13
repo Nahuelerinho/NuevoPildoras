@@ -5,7 +5,7 @@ import java.awt.*;
 public class CreandoMarcos {
     public static void main(String[] args) {
 
-        miMarco marco1 = new miMarco();
+        MarcoImagen marco1 = new MarcoImagen();
 
         marco1.setVisible(true);
 
